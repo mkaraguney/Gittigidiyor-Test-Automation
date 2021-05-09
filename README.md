@@ -11,7 +11,7 @@
 - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırılır.
 - Adet arttırılarak ürün adedinin 2 olduğu doğrulanır.
 - Ürün sepetten silinerek sepetin boş olduğu kontrol edilir.
-<br>
+
 ![alt text](https://github.com/mkaraguney/Gittigidiyor-Test-Automation/blob/main/ScreenShots/Login.PNG)
 ![alt text](https://github.com/mkaraguney/Gittigidiyor-Test-Automation/blob/main/ScreenShots/search.PNG)
 ![alt text](https://github.com/mkaraguney/Gittigidiyor-Test-Automation/blob/main/ScreenShots/product.png)
